@@ -1,0 +1,11 @@
+.ItemCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 400px;
+  margin: 5px;
+}
+
+.ItemCard img {
+  align-self: center;
+}
